@@ -4,68 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ToDoList</title>
+    <title>Home</title>
 </head>
 
-<body onload="
-
-    save = () => {
-            let content = document.getElementById('content');
-            let elements = content.getElementsByTagName('input');
-            for (let i = 0; i < elements.length; i++) {
-                window.localStorage.setItem('todo-' + i, elements[i].value);
-               
-            }
-            window.localStorage.setItem('todoLength', elements.length);
-
-        }
-
-     addInput = (value) =>{
-            
-            let element = document.createElement('div');
-            let input = document.createElement('input');
-            input.value= value;
-            
-            input.oninput=(e)=>{
-                save();
-            }
-            let button = document.createElement('button');
-            button.innerText = 'delete';
-            button.onclick = (e)=>{
-                e.target.parentElement.remove();
-                save();
-               
-            }
-
-            element.appendChild(input);
-            element.appendChild(button);
-
-            let content = document.getElementById('content');
-            content.appendChild(element);
-            save();
-            
-        }
-        
-        let size = window.localStorage.getItem('todoLength');
-        let content = document.createElement('div');
-        content.id = 'content';
-        document.body.appendChild(content);
-        for(let i=0;i<size;i++){
-            addInput(window.localStorage.getItem('todo-' + i));
-        }
-   
-
-">
-    <style>
-        #content {
-            display: flex;
-            justify-content: center;
-            flex-direction: column;
-        }
-    </style>
-    <div class="main"><button class="add" onClick="addInput('')">Add</button>
-
-    </div>
+<body>
+    <a href='./todo'>Offline TO ddo list</a>
+    <a href='./cssDemos/popularLayout.html'> Popular layouts </a>
+    <a href = './Chinese-character-Landing-Page/'Chines Character Landing Page</a>
 </body>
 
 </html>
