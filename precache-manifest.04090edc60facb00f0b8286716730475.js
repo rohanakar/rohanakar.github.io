@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0e0c8d2240b0aa8e56dabe48fc270f5",
+    "revision": "6882859126a5318b71b95c7918ee8e51",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.f1878fa8.chunk.css"
   },
   {
-    "revision": "320ba2436b7cdc099992",
+    "revision": "11a05c0ef3f8d9f4abd6",
     "url": "/static/css/main.725b2dad.chunk.css"
   },
   {
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c2b63f49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "320ba2436b7cdc099992",
-    "url": "/static/js/main.7bddb394.chunk.js"
+    "revision": "11a05c0ef3f8d9f4abd6",
+    "url": "/static/js/main.ebfcd2d0.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
     "url": "/static/js/runtime-main.19ccc7f6.js"
+  },
+  {
+    "revision": "2fd642d619fb3f09fc278978eb8a80c4",
+    "url": "/static/media/Euler.2fd642d6.svg"
   },
   {
     "revision": "3b64ea9c2bdf6ec86eab8b46fb950563",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "088c3009fb1184c6ca39c8bacbe88ff8",
     "url": "/static/media/Gmail.088c3009.svg"
+  },
+  {
+    "revision": "c0bbd4c1032aec37162f95087703bb27",
+    "url": "/static/media/LeetCode.c0bbd4c1.svg"
   },
   {
     "revision": "93ecc28558e61aeb0f85e9b01b43863c",
@@ -48,6 +56,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/background.d8d292da.png"
   },
   {
+    "revision": "8d3e864722c4773ce0d80feafcf09cc1",
+    "url": "/static/media/bg.8d3e8647.svg"
+  },
+  {
+    "revision": "d5c9f41e13e3ded52e741d2deb41f9c4",
+    "url": "/static/media/codechef.d5c9f41e.svg"
+  },
+  {
     "revision": "a5c398a7c892bb99c515eed69ea78036",
     "url": "/static/media/contact.a5c398a7.svg"
   },
@@ -58,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1bb8ae114b2414defcf6912970494aed",
     "url": "/static/media/file.1bb8ae11.svg"
+  },
+  {
+    "revision": "cb8b2c79e070bdab639978fd1b678402",
+    "url": "/static/media/hackerrank.cb8b2c79.svg"
   },
   {
     "revision": "ee8e5e100c0242e71399e056adce0a6c",
