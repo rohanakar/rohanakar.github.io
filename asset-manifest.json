@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.725b2dad.chunk.css",
-    "main.js": "/static/js/main.11c2692a.chunk.js",
-    "main.js.map": "/static/js/main.11c2692a.chunk.js.map",
+    "main.js": "/static/js/main.6b5b103b.chunk.js",
+    "main.js.map": "/static/js/main.6b5b103b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.f1878fa8.chunk.css": "/static/css/2.f1878fa8.chunk.css",
     "static/js/2.d645d30c.chunk.js": "/static/js/2.d645d30c.chunk.js",
     "static/js/2.d645d30c.chunk.js.map": "/static/js/2.d645d30c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.90380f9ae8d215cf753994c72277892d.js": "/precache-manifest.90380f9ae8d215cf753994c72277892d.js",
+    "precache-manifest.cb34f0e4083185309e95d121bf077cc8.js": "/precache-manifest.cb34f0e4083185309e95d121bf077cc8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f1878fa8.chunk.css.map": "/static/css/2.f1878fa8.chunk.css.map",
     "static/css/main.725b2dad.chunk.css.map": "/static/css/main.725b2dad.chunk.css.map",
@@ -23,6 +23,7 @@
     "static/media/React-icon.svg": "/static/media/React-icon.05a3e30f.svg",
     "static/media/SpringBoot.svg": "/static/media/SpringBoot.5e9d46e5.svg",
     "static/media/about.e739897a.svg": "/static/media/about.e739897a.svg",
+    "static/media/angular.svg": "/static/media/angular.abfc3b93.svg",
     "static/media/background.png": "/static/media/background.d8d292da.png",
     "static/media/codechef.d5c9f41e.svg": "/static/media/codechef.d5c9f41e.svg",
     "static/media/contact.a5c398a7.svg": "/static/media/contact.a5c398a7.svg",
@@ -33,6 +34,8 @@
     "static/media/java.svg": "/static/media/java.a732a6e5.svg",
     "static/media/js.png": "/static/media/js.9d199457.png",
     "static/media/left.d8a4292b.svg": "/static/media/left.d8a4292b.svg",
+    "static/media/node.svg": "/static/media/node.89ccb090.svg",
+    "static/media/polymer.svg": "/static/media/polymer.6a70192e.svg",
     "static/media/problemSolving.png": "/static/media/problemSolving.3c4ad40d.png",
     "static/media/projects.f07cd5c4.svg": "/static/media/projects.f07cd5c4.svg",
     "static/media/react.png": "/static/media/react.b0177646.png",
@@ -44,6 +47,6 @@
     "static/css/2.f1878fa8.chunk.css",
     "static/js/2.d645d30c.chunk.js",
     "static/css/main.725b2dad.chunk.css",
-    "static/js/main.11c2692a.chunk.js"
+    "static/js/main.6b5b103b.chunk.js"
   ]
 }
